@@ -5,3 +5,7 @@
 .gradle/
 .idea/
 build/
+
+.vscode/
+
+*.ts
